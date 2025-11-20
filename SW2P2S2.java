@@ -1,6 +1,6 @@
 // Jvdroid-main: 
 // Parent Class (Base Class)
-Class seatwork2part2sem2{
+class Person {
 
     // Encapsulated variables (private)
     private String name;
@@ -56,7 +56,7 @@ class Student extends Person {
 
 
 // Main Class
-public class MainProgram {
+public class SW2P2S2 {
     public static void main(String[] args) {
         // Create object of child class (Student)
         Student s = new Student();
